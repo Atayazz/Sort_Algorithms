@@ -63,9 +63,9 @@ Projenin çalıştırılması için aşağıdaki adımları takip edebilirsiniz:
 
 4. Ardından aşağıdaki komutu kullanarak uygulamayı başlatın:
 
-   ```bash
-   python main.py //Program, her bir sıralama algoritması için bir dizi oluşturacak ve sıralama sonuçlarını ekrana yazdıracaktır.
-   ```
+  ```bash
+  python main.py //Program, her bir sıralama algoritması için bir dizi oluşturacak ve sıralama sonuçlarını ekrana yazdıracaktır.
+  ```
 
    
 
