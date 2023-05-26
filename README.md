@@ -21,8 +21,8 @@ Projenin çalıştırılması için aşağıdaki adımları takip edebilirsiniz:
    - Projenin klonlanmasını istediğiniz dizine gidin:  
          cd dizin_adi
      
-   - İstenen dizine gittikten sonra 'git clone' komutunu kullanarak github reposunun url'sini yazın: git clone 
-         https://github.com/Atayazz/Sort_Algorithms.git
+   - İstenen dizine gittikten sonra 'git clone' komutunu kullanarak github reposunun url'sini yazın: 
+      git clone https://github.com/Atayazz/Sort_Algorithms.git
      
    - Komutu çalıştırdıktan sonra git depoyu klonlamaya başlayacaktır. Klonlama işlemi tamamlandığında işlemin gerçekleştiriğini bildiren bir mesaj göreceksiniz.
    - Proje dosyanıza yine cd komutunu kullanarak gidebilirsiniz.
@@ -31,6 +31,7 @@ Projenin çalıştırılması için aşağıdaki adımları takip edebilirsiniz:
 2. Projeyi çalıştırmak için Python 3'ün bilgisayarınıza yüklü olduğundan emin olun. 
 3.  Sonraki adımda projenin kök dizinine gidin. 4. Aşağıdaki komutu kullanarak gerekli bağımlılıkları yükleyin: 
        pip install pygame //Bu komut, pygame kütüphanesini yükleyecektir. Bu kütüphane, görsel arayüz ve animasyonlar için kullanılacaktır. 
+       
 4. Ardından aşağıdaki komutu kullanarak uygulamayı başlatın:
        python main.py //Program, her bir sıralama algoritması için bir dizi oluşturacak ve sıralama sonuçlarını ekrana yazdıracaktır.
    
