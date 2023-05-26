@@ -12,7 +12,7 @@ Sıralama algoritması, bir dizi veya liste içindeki öğeleri belirli bir kura
 4. Merge Sort: Bu algoritma, sıralanmış alt listeler oluşturarak veri setini sürekli olarak ikiye böler. Daha sonra, alt listeler birleştirilirken sıralanır. Bu aşama, alt listelerin birleştirilmesi sırasında karşılaştırmalar yaparak gerçekleştirilir. Merge Sort, büyük veri setleri için etkilidir ve istikrarlı bir algoritmadır.
 5. Quick Sort: Bu algoritma, bir "pivot" öğe seçerek veri setini ikiye böler. Daha sonra, pivot öğenin solunda küçük, sağında ise büyük öğeler yer alacak şekilde sıralama yapılır. Bu adımlar, alt listelerin sıralanması tamamlanana kadar tekrarlanır. Quick Sort, genellikle hızlı bir sıralama algoritması olarak kabul edilir ve büyük veri setleri için etkilidir.
 
-Nasıl Çalıştırılır ?
+## Nasıl Çalıştırılır ?
 
 Projenin çalıştırılması için aşağıdaki adımları takip edebilirsiniz: 
 
