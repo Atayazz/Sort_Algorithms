@@ -67,6 +67,7 @@ Projenin çalıştırılması için aşağıdaki adımları takip edebilirsiniz:
   python main.py //Program, her bir sıralama algoritması için bir dizi oluşturacak ve sıralama sonuçlarını ekrana yazdıracaktır.
   ```
 
+## Naıl Kullanılır?
    
 ## Emeği Geçenler
 
