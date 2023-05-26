@@ -1,6 +1,6 @@
 # README
 
-##Sort Algoritm Nedir?
+## Sort Algoritm Nedir?
 
 Sıralama algoritması, bir dizi veya liste içindeki öğeleri belirli bir  kurala göre düzenleme işlemidir. Bu algoritma, öğeleri artan veya azalan bir sıraya göre sıralar ve veri setinin organize edilmesi, arama veya  analiz gibi birçok uygulamada önemli bir adımdır.
 
