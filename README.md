@@ -67,7 +67,15 @@ Projenin çalıştırılması için aşağıdaki adımları takip edebilirsiniz:
   python main.py //Program, her bir sıralama algoritması için bir dizi oluşturacak ve sıralama sonuçlarını ekrana yazdıracaktır.
   ```
 
-## Naıl Kullanılır?
+## Nasıl Kullanılır?
+   
+   Projeyi başlattıktan sonra adım adım şöyle kullanılır:
+  - Terminalde açılan ekranda 'Liste boyutunu giriniz:' yazısı gelir ve sıralamak istenen liste boyutu verisi girilir.
+  - Alt ve yukarı yön tuşları ile animasyon hızı ayarlanır.
+  - 'A' ve 'D' tuşları ile sıralamanın yönü (büyükten küçüğe veya küçükten büyüğe) ayarlanır.
+  - Insertion Sort için (I), Bubble Sort için (B), Selection Sort için (S), Merge Sort için (M), Quick Sort için (Q) girilerek sıralama türü seçilir.
+  - Space (boşluk) tuşuna basarak sıralam başlatılır.
+  - Eğer en başa dönmek istenirse (R) girilerek sıfırlanır.
    
 ## Emeği Geçenler
 
