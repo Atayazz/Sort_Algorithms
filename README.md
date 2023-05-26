@@ -68,6 +68,15 @@ Projenin çalıştırılması için aşağıdaki adımları takip edebilirsiniz:
   ```
 
    
+## Emeği Geçenler
 
+- [Ömer Faruk Sevinç ][1] 
+- [Hüseyin NAS][2]  
+- [Atayağız USLU][3]  
+
+
+[3]: https://github.com/Atayazz
+[2]: https://github.com/huseyin7883
+[1]: https://github.com/ofaruksevinc
 
    
