@@ -1,8 +1,8 @@
 # README
 
-## Sort Algoritm Nedir?
+## Sorting Algoritm Nedir?
 
-Sıralama algoritması, bir dizi veya liste içindeki öğeleri belirli bir  kurala göre düzenleme işlemidir. Bu algoritma, öğeleri artan veya azalan bir sıraya göre sıralar ve veri setinin organize edilmesi, arama veya  analiz gibi birçok uygulamada önemli bir adımdır.
+Sıralama algoritması, bir dizi veya liste içindeki öğeleri belirli bir kurala göre düzenleme işlemidir. Bu algoritma, öğeleri artan veya azalan bir sıraya göre sıralar ve veri setinin organize edilmesi, arama veya  analiz gibi birçok uygulamada önemli bir adımdır.
 
 ## Sort Algoritm Türleri Nelerdir?
 
